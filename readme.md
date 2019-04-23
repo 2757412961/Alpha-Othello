@@ -10,8 +10,8 @@
 
 # About author
 
-​	Developer : Qi Xiangyu(漆翔宇)<br>	Sid : 3170104557<br>	GroupNumber : 21<br>	Major : Computer Science and Technology<br>	Tel : 17342017090<br>	Email : unispac@zju.edu.cn<br>	QQ : 416162623<br>	
+​	Developer : Qi Xiangyu(漆翔宇)<br>	Major : Computer Science and Technology<br>	Tel : 17342017090<br>	Email : unispac@zju.edu.cn<br>	QQ : 416162623<br>	
 
-​	Please contact with me if you have encountered any problems when running it..<br>	The report will be handed in before 8:00 am on 4.21 as required.. <br>	
+​	Please contact with me if you have encountered any problems when running it..	
 
 ​	
